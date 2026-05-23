@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there 👋, I'm Chigozie
+I’m an Electrical Engineer in the Data Science space, passionate about solving real-world problems at the intersection of engineering, AI, IoT, and data-driven decision-making.
 
-<!--
-**GotZie/GotZie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I Do
+* Build data-driven solutions for complex engineering and business problems
+* Apply AI and analytics to surface insights and support strategic decisions
+* Use structured problem-solving to break down ambiguity and guide action
+* Explore the role of IoT, machine learning, and intelligent systems in industry  
 
-Here are some ideas to get you started:
+### Stack
+Languages: Python · R · SQL · JavaScript  
+ML/Forecasting: XGBoost · LightGBM · Prophet · Scikit-Learn etc  
+Infrastructure: Azure · AWS · FastAPI · SQLAlchemy  
+Visualization: Power BI · Pyplot  
+Other: Excel · Jupyter Markdown  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Background 
+Data Analytics — ALX Africa  
+Data Scientist — ALX Africa  
+Electrical Engineering — Federal University of Technology Minna, · B.Eng Elect/Elect Engineering.
+
+### My Interests
+* ⚡ Energy & Power Systems  
+* 📊 Data Science & Machine Learning  
+* 🤖 AI for Research and Decision Support  
+* 🌐 IoT Applications in Industry  
+* 📈 Analytics for Business Strategy  
+
+### My Approach
+My focus is on combining critical thinking, analytical rigor, and engineering/business insight to turn data into meaningful decisions.
+I believe AI can accelerate execution, but not judgment.
+#### Currently Exploring
+Working on practical applications of data science in engineering, energy systems, and strategic business decision-making.  
+Outside tech, I enjoy Sports and Tourism😊.
+
