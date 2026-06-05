@@ -24,7 +24,8 @@ Electrical Engineering — Federal University of Technology Minna, · B.Eng Elec
 * 📊 Data Science & Machine Learning  
 * 🤖 AI for Research and Decision Support  
 * 🌐 IoT Applications in Industry  
-* 📈 Analytics for Business Strategy  
+* 📈 Analytics for Business Strategy
+* 🏗️ Infrastructure Sustainability and Reliability 
 
 ### My Approach
 My focus is on combining critical thinking, analytical rigor, and engineering/business insight to turn data into meaningful decisions.
