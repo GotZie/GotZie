@@ -12,7 +12,7 @@ Languages: Python · R · SQL · JavaScript
 ML/Forecasting: XGBoost · LightGBM · Prophet · Scikit-Learn etc  
 Infrastructure: Azure · AWS · FastAPI · SQLAlchemy  
 Visualization: Power BI · Pyplot  
-Other: Excel · Jupyter Markdown  
+Other: Excel  · ETL · Statistics · Jupyter Markdown  
 
 ### My Background 
 Data Analytics — ALX Africa  
@@ -28,9 +28,14 @@ Electrical Engineering — Federal University of Technology Minna, · B.Eng Elec
 * 🏗️ Infrastructure Sustainability and Reliability 
 
 ### My Approach
-My focus is on combining critical thinking, analytical rigor, and engineering/business insight to turn data into meaningful decisions.
+My focus is on combining critical thinking, analytical rigor, and engineering/business insight to turn complex operational data into strategic decisions that improve reliability, optimize performance, reduce costs, and deliver measurable business value. 
 I believe AI can accelerate execution, but not judgment.
+
 #### Currently Exploring
-Working on practical applications of data science in engineering, energy systems, and strategic business decision-making.  
+***Energy Industry:***  Grid Systems & reliability · Energy Markets · Asset management & optimization.  
+***Manufacturing Industry:***  Predictive maintenance · Process optimization · Quality assurance · Lean Manufacturing · Six Sigma.
+
+
+I am intrested in Working on practical applications of data science in engineering, energy systems, and strategic business decision-making.  
 Outside tech, I enjoy Sports and Tourism😊.
 
